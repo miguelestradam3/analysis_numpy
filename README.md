@@ -115,11 +115,7 @@ These visualizations help interpret how PCA transforms the original feature spac
 
 ### Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-Or install them manually:
+Install them manually:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
